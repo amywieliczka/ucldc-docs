@@ -2,7 +2,7 @@
 title: Metadata Schema XSD
 ---
 
-##Document Types and Schemas
+## Document Types and Schemas
 
 Each object type (Picture, Audio, Video, File, Complex) in the DAMS is referred to in Nuxeo as a **document type** under the hood. Nuxeo document types can have many schemas associated with them. In this case, the document types defining Picture, Audio, Video, File, and Complex objects all use the `ucldc_schema` to store metadata fields and the `extra_files` schema to store auxiliary content files and auxiliary file metadata. These document types also each use a schema defined to store their respective content file - a picture schema, audio schema, video schema, and file schema. The `ucldc_schema` and `extra_files` schema are described below:
 

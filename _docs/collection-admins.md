@@ -12,7 +12,7 @@ UCLDC Collection Administrators perform administrative functions in the DAMS and
 - Indicating when their institutions’ collections are ready for harvest into the UCLDC common index
 - Serving as first points of contact for CDL on issues and questions related to their respective institutions’ collections
 
-##Roster
+## Roster
 <table>
   <thead>
     <th>Campus/Unit</th>

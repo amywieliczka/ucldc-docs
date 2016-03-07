@@ -7,7 +7,7 @@ title: DAMS Metadata Scheme
 </a><br>
 
 
-##Required Metadata
+## Required Metadata
 ***
 
 <p>The following table summarizes data elements that must be present in each metadata record for harvest into the Common Index. Note that default values for <b>Type</b>, <b>Copyright Status</b>, and <b>Copyright Statement</b> can optionally be supplied and applied to individual metadata records at the time they are harvested, using the Collection Registry:</p>
@@ -19,7 +19,7 @@ title: DAMS Metadata Scheme
 * <a class="label">Copyright Statement</a>
 
 
-##The Metadata Scheme
+## The Metadata Scheme
 ***
 
 ### Content Files

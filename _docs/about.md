@@ -16,17 +16,17 @@ We have also recently drafted an <a href="http://amywieliczka.github.io/ucldc-do
 <!-- 
 --there will be the latest diagram and some descriptive info here--
 
-##Data storage
+## Data storage
 Data for all collections designated for public access—whether managed in the shared DAMS or in other platforms—is harvested by CDL and stored in the UCLDC common index. “Data” includes item-level metadata and references to access copies of files, stored by CDL for the optimal display of content in public access points (described below).
 
-##Exposure to public access points
+## Exposure to public access points
 CDL exposes all of the data in the common index to three public access points:
 
 - The common index API, which can be used to query and display the data in custom interfaces
 - The new Calisphere website (beta version to be released in Summer 2015)
 - The Digital Public Library of America (DPLA) website and platform
 
-##UCLDC Collection Administrators
+## UCLDC Collection Administrators
 UCLDC Collection Administrators perform administrative functions in the DAMS and Collection Registry on behalf of—and in close consultation with—their respective institutions. Specific responsibilities include:
 
 - Authorizing users of the shared DAMS affiliated with their respective campus libraries
