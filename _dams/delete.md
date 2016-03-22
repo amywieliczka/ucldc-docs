@@ -1,6 +1,6 @@
 ---
 title: Deleting an Object or Project Folder
-next_section: 
+next_section: dams/publish/
 prev_section: dams/permissions/
 ---
 
