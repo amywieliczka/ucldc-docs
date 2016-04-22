@@ -598,26 +598,7 @@ This scheme is still undergoing active development. Find the most up-to-date sch
   <p>yes</p>
   </td>
  </tr>
- <tr>
-  <td>
-  <p><b>description_ss</b></p>
-  </td>
-  <td>
-  <p>string</p>
-  </td>
-  <td>
-  <p>&nbsp; </p>
-  </td>
-  <td>
-  <p>yes</p>
-  </td>
-  <td>
-  <p>yes</p>
-  </td>
-  <td>
-  <p>yes</p>
-  </td>
- </tr>
+
  <tr>
   <td>
   <p><b>extent_ss</b></p>
@@ -938,26 +919,7 @@ This scheme is still undergoing active development. Find the most up-to-date sch
   <p>yes</p>
   </td>
  </tr>
- <tr>
-  <td>
-  <p><b>transcription_ss</b></p>
-  </td>
-  <td>
-  <p>string</p>
-  </td>
-  <td>
-  <p></p>
-  </td>
-  <td>
-  <p>yes</p>
-  </td>
-  <td>
-  <p>yes</p>
-  </td>
-  <td>
-  <p>yes</p>
-  </td>
- </tr>
+
  <tr>
   <td>
   <p><b>title_ss</b></p>
