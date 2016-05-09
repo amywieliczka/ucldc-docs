@@ -1,7 +1,7 @@
 ---
 title: Depositing to Merritt
 next_section: dams/stats/
-prev_section: dams/export/
+prev_section: dams/exports/
 ---
 
 Depositing objects from the DAMS to Merritt can be initiated on request.  Your Collection Administrator can initiate the request.  In order to be deposited into Merritt, we will need the following pieces of information:
