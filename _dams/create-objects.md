@@ -1,7 +1,7 @@
 ---
 title: Creating Simple Objects
-next_section: dams/complex-objects/
-prev_section: dams/organization/
+next_section: dams/complex-objects
+prev_section: dams/organization
 ---
 
 ## Digital objects: some definitions
