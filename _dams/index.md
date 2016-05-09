@@ -1,6 +1,6 @@
 ---
 title: Shared DAMS Overview
-next_section: dams/organization/
+next_section: dams/organization
 ---
 
 ## What is the DAMS?
