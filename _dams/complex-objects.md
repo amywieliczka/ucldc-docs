@@ -1,7 +1,7 @@
 ---
 title: Creating Complex Objects
-next_section: dams/edit-objects/
-prev_section: dams/create-objects/
+next_section: dams/edit-objects
+prev_section: dams/create-objects
 ---
 
 ## Complex objects in the DAMS
