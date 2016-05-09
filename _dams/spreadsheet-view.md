@@ -1,7 +1,7 @@
 ---
 title: Spreadsheet Editor
-next_section: dams/clipboard/
-prev_section: dams/bulk-edit/
+next_section: dams/clipboard
+prev_section: dams/bulk-edit
 ---
 
 Simple and complex objects of any type can be edited in spreadsheet view as long as they exist in the same project folder, are children of the same parent complex object, or appear in the same search result set. 
