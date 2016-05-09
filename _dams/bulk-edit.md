@@ -1,7 +1,7 @@
 ---
 title: Bulk Edit Objects
-next_section: dams/spreadsheet-view/
-prev_section: dams/bulk-import/
+next_section: dams/spreadsheet-view
+prev_section: dams/bulk-import
 ---
 
 Simple and complex objects of any type can be edited in bulk as long as they exist in the same project folder, are children of the same parent complex object, or appear in the same search result set. 
