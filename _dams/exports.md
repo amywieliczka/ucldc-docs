@@ -1,7 +1,7 @@
 ---
 title: Exporting Objects
-next_section: dams/merritt/
-prev_section: dams/publish/
+next_section: dams/merritt
+prev_section: dams/publish
 ---
 
 Objects can be exported from Nuxeo one at a time, or as a batch. Additionally, you can opt to export the metadata records only, or the entire object -- i.e., metadata records plus associated content files.
