@@ -1,7 +1,7 @@
 ---
 title: Organizing Objects with Project Folders
-next_section: dams/create-objects/
-prev_section: dams/index/
+next_section: dams/create-objects
+prev_section: dams/index
 ---
 
 ## Project folders: a paradigm
