@@ -1,6 +1,6 @@
 ---
 title: Getting Stats
-prev_section: registry/access
+prev_section: registry/access/
 ---
 
 ## Usage Stats
