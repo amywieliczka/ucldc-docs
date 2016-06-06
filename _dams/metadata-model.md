@@ -2,7 +2,7 @@
 title: DAMS Metadata Scheme
 ---
 
-<a href="{{ site.url }}{{ site.baseurl }}/docs/dams/ucldc-schema/">
+<a href="{{ site.url }}{{ site.baseurl }}/docs/dams/ucldc_schema/">
   <span class="glyphicon glyphicon-file"></span> View the DAMS metadata scheme's xsd file.
 </a><br>
 
